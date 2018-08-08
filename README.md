@@ -1,4 +1,6 @@
 # Slides
+[![HitCount](http://hits.dwyl.io/aaqaishtyaq/slides.svg)](http://hits.dwyl.io/aaqaishtyaq/slides)
+
 Slides repo
 
 
